@@ -6,3 +6,7 @@ console.log(a, b, d);
 const c = 'asdfasdfasdfasdfasdfasdfasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd';
 
 console.log(c);
+
+function sum(a, b, c) {
+  return a + b + c;
+}
